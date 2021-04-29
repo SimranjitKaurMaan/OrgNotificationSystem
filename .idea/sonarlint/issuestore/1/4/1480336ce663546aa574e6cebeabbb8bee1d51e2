@@ -1,0 +1,11 @@
+
+E
+java:S1068
+"(Remove this unused "name" private field.(Ë¥¼8ï¢ä´‡/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ªë¡Ú8ƒ„Èµ‡/
+C
+java:S1068	"&Remove this unused "id" private field.(æ¨ç†8‰şã´‡/
+U
+java:S1117<"8Rename "post" which hides the field declared at line 13.(öñœ8Ÿæ²µ‡/
+M
+java:S1068"+Remove this unused "onLeave" private field.(Å‰Áıÿÿÿÿ8óìµ‡/
